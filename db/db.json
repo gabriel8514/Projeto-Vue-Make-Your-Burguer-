@@ -79,26 +79,6 @@
   ],
   "burgers": [
     {
-      "nome": "Gabriel",
-      "carne": "Maminha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa",
-        "Tomate"
-      ],
-      "status": "Em produção",
-      "id": 1
-    },
-    {
-      "nome": "Rodolfo",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [],
-      "status": "Em produção",
-      "id": 3
-    },
-    {
       "nome": "Rodolfo",
       "carne": "Alcatra",
       "pao": "3 Queijos",

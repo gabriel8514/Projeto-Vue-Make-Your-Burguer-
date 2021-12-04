@@ -23,6 +23,7 @@ export default {
         padding: 10px;
         max-width: 400px;
         margin: 30px auto;
+        text-align: center;
     }
 
 </style>
