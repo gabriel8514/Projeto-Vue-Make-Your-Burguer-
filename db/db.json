@@ -79,75 +79,35 @@
   ],
   "burgers": [
     {
-      "nome": "GABRIEL LUIZ DOS REIS",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
+      "nome": "Gabriel",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
       "opcionais": [
+        "Bacon",
         "Cebola roxa",
-        "Tomate",
-        "Pepino",
-        "Cheddar"
+        "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
-      "nome": "GABRIEL LUIZ DOS REIS",
+      "nome": "Rodolfo",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [],
+      "status": "Em produção",
+      "id": 3
+    },
+    {
+      "nome": "Rodolfo",
       "carne": "Alcatra",
       "pao": "3 Queijos",
       "opcionais": [
-        "Cebola roxa",
-        "Tomate",
-        "Pepino",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Gabriel",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 7
-    },
-    {
-      "nome": "Gabriel",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Tomate",
-        "Cheddar",
-        "Pepino",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 8
-    },
-    {
-      "nome": "Gabriel",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Solicitado",
-      "id": 9
-    },
-    {
-      "nome": "Zeze",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar",
+        "Salame",
         "Pepino"
       ],
       "status": "Solicitado",
-      "id": 10
+      "id": 4
     }
   ]
 }
