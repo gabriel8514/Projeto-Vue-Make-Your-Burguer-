@@ -66,7 +66,7 @@
       },
       async getStatus() {
 
-        const req = await fetch('http://localhost:3000/status')
+        const req = await fetch('http://localhost:8080/status')
 
         const data = await req.json()
 
